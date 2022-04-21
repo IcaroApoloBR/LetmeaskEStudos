@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="E-Studos" src="https://github.com/IcaroApoloBR/LetmeaskEStudos/blob/main/src/assets/images/logo2.svg" width="160px">
-</p>
-
 <h1 align="center">
     <img alt="E-Studos" src="home.png" />
 </h1>
